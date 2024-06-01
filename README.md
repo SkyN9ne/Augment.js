@@ -6,7 +6,7 @@ It combines the code snippets supplied by [Mozilla](https://developer.mozilla.or
 
 ## Docs
 
-For documentation and usage see the [Augment.js](http://olivernn.github.com/augment.js) docs site.
+For documentation and usage see the [Augment.js](https://olivernn.github.com/augment.js) docs site.
 
 ## Build
 
@@ -14,7 +14,7 @@ You can create a custom build of Augment.js by using the builder script.  For mo
 
 ## Contributing
 
-Run the tests suite with `make test` then open localhost:8003 in your browser. Hack, tests and open a pull request.
+Run the tests suite with `make test` then open `http://localhost:8003` in your browser. Hack, tests and open a pull request.
 
 ## Credits
 
